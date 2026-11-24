@@ -1,6 +1,8 @@
-# Introducción a la estabilidad de los sistemas eléctricos
+# Introducción a la estabilidad de los sistemas eléctricos: Fundamentos, ejemplos y recursos digitales complementarios
+ISBN: 978-628-02-7099-9
+DOI: 10.5281/zenodo.23442982
 
-Repositorio digital complementario del libro *Introducción a la estabilidad de los sistemas eléctricos*, de Jaime Quintero Restrepo.
+## Repositorio digital complementario del libro *Introducción a la estabilidad de los sistemas eléctricos: Fundamentos, ejemplos y recursos digitales complementarios*, de Jaime Quintero Restrepo.
 
 Este repositorio contiene scripts desarrollados en Python para apoyar el estudio de conceptos fundamentales de estabilidad de sistemas eléctricos de potencia. Los materiales están organizados por capítulos y permiten reproducir resultados numéricos, generar gráficas, verificar ejercicios y explorar el efecto de distintos parámetros sobre modelos simplificados de sistemas eléctricos.
 
