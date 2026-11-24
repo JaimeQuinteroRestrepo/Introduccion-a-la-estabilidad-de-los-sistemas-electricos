@@ -1,4 +1,4 @@
-# Repositorio digital complementario del libro *Introducción a la estabilidad de los sistemas eléctricos: Fundamentos, ejemplos y recursos digitales complementarios*, de Jaime Quintero Restrepo.
+# Repositorio digital complementario del libro *'Introducción a la estabilidad de los sistemas eléctricos: Fundamentos, ejemplos y recursos digitales complementarios'*, de Jaime Quintero Restrepo.
 ISBN: 978-628-02-7099-9
 DOI: 10.5281/zenodo.23442982
 
